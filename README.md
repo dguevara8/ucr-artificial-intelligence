@@ -15,8 +15,7 @@ Detección de granos de arroz en imágenes de una línea de producción simulada
 │   └── negativas/
 ├── Etiquetas.py          # Preprocesamiento y generación del CSV
 ├── dataset.csv           # Dataset final (30 filas × 16385 columnas)
-├── DATASET.md            # Documentación del conjunto de datos
-├── MODEL_CARD.md         # Tarjeta del modelo
+├── ProyectoIA_C23562     # Documentación del conjunto de datos
 └── README.md
 ```
 
