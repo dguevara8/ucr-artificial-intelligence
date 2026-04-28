@@ -65,5 +65,5 @@ python Etiquetas.py
 ## Requisitos
 
 ```bash
-pip install pillow numpy scikit-learn joblib
+pip install pillow numpy
 ```
