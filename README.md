@@ -21,6 +21,7 @@ Detección de granos de arroz en imágenes de una línea de producción simulada
 ├── mejor_modelo.pkl            # Mejor modelo exportado
 ├── resultados_modelos.json     # Resultados de métricas e hiperparámetros
 ├── ProyectoIA_C23562.pdf       # Documentación del proyecto
+├── MODELCARD.md
 └── README.md
 ```
 
